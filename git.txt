@@ -17,3 +17,4 @@ git remote -v 查看仓库
 
 
 使用 tortoiseGit 进行git操作
+记住账号密码设置：
