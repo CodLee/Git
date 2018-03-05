@@ -18,4 +18,5 @@ git remote -v 查看仓库
 
 使用 tortoiseGit 进行git操作
 记住账号密码设置：setting--credential-- 添加用户名
+{url:复制项目git地址;helper:自定义名称 ;username:用户名登录名 }
 冲突：
